@@ -2,9 +2,9 @@
 
 Lista curada de APIs y datasets públicos de Argentina, útil para analistas, desarrolladores y agentes automáticos.
 
-Sitio: https://anzuelo.jmbavio.workers.dev/?c=github
+Sitio: https://apis.datos-ar.workers.dev/?c=github
 
-Para agentes de IA: https://anzuelo.jmbavio.workers.dev/llms.txt
+Para agentes de IA: https://apis.datos-ar.workers.dev/llms.txt
 
 | Fuente | Qué ofrece |
 |---|---|
